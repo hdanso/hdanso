@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdanso
 - 👀 I’m interested in health informatics and improving healthcare accessibility through technology
-- 🌱 I’m currently learning how to better serve patients with automation
+- 🌱 I’m currently learning how to better serve patients by increasing the automation of healthcare workflows
 - 💞️ I’m looking to collaborate on health informatics related projects focusing on accessibility
 - 📫 How to reach me, email @ danso.henrietta@gmail.com
 
